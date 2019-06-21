@@ -3,4 +3,3 @@
 This is a demo implimentation of a ride-hailing platform in Go, for educational purposes.
 
 ### Installing
-`go get https://github.com/crux25/cabby.git`
